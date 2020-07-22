@@ -1,0 +1,38 @@
+<?php
+/**
+ * @var \App\View\AppView $this
+ * @var \App\Model\Entity\Usuario $usuario
+ */
+?>
+
+<br>
+<br>
+<br>
+<br>
+
+<div class="card bg-light">
+    <div class="card-body mx-auto" style="max-width: 400px;">
+	        <h4 class="card-title mt-3 text-center">Create Account</h4>
+  
+    	<div class="form-group input-group">
+		    <div class="input-group-prepend">
+		    <span class="input-group-text"> <i class="fa fa-user"></i> </span>   </div>
+              <?= $this->Form->input('nombre', ['type' => 'text', 'class' => 'form-control', 'placeholder' => 'Ingrese su nombre', 'required']) ?>
+        </div> <!-- form-group// -->
+
+        <div class="form-group input-group">
+		<div class="input-group-prepend">
+  
+		    <span class="input-group-text"> <i class="fa fa-user"></i> </span>
+		 </div>
+      <?= $this->Form->input('apellido', ['type' => 'text', 'class' => 'form-control', 'placeholder' => 'Ingrese su apellido', 'required']) ?>
+       </div> <!-- form-group// -->
+
+       <div class="form-group input-group">
+        	<div class="input-group-prepend">
+		    <span class="input-group-text"> <i class="fa fa-envelope"></i> </span> </div>
+             <?= $this->Form->input('email', ['type' => 'email', 'class' => 'form-control', 'placeholder' => 'Ingrese su correo electrónico', 'required']) ?>
+        </div> <!-- form-group// -->
+    </div>
+</div><!-- card// -->
+

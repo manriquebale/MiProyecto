@@ -1,0 +1,221 @@
+
+
+/* ----------------
+Other Pages
+ ---------------------*/
+
+
+/* 
+.page-top-section {
+    height: 403px;
+    padding-top: 190px;
+}
+
+.page-top-section h2 {
+    font-size: 48px;
+    color: #fff;
+}
+
+.site-breadcrumb .sb-item {
+    font-size: 14px;
+    color: #fff;
+    position: relative;
+    padding-right: 9px;
+}
+
+.site-breadcrumb .sb-item:after {
+    position: absolute;
+    content: "/";
+    font-size: 14px;
+    color: #fff;
+    right: 0;
+    top: 0;
+}
+
+.site-breadcrumb .sb-item:last-child:after {
+    display: none;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1176px;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1360px) {
+    .main-menu {
+        padding-right: 0;
+    }
+    .main-menu li a {
+        margin-right: 30px;
+    }
+    .header-right .hr-btn.hr-btn-2 {
+        min-width: 210px;
+    }
+} */
+
+
+/* Medium screen : 992px. */
+
+
+/* 
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .header-section {
+        padding-left: 56px;
+        padding-bottom: 90px;
+    }
+    .main-menu {
+        padding-right: 0;
+    }
+    .main-menu li a {
+        margin-right: 15px;
+    }
+    .header-right .hr-btn.hr-btn-2 {
+        min-width: auto;
+    }
+    .score-section .hand-img {
+        right: 0;
+    }
+    .hero-slider .owl-dots {
+        max-width: 930px;
+        left: calc(50% - 465px);
+    }
+}
+ */
+
+
+/* Tablet :768px. */
+
+
+/* @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .header-section {
+          padding: 0 25px;
+   
+    }
+    .main-menu {
+        padding-right: 0;
+    }
+    .main-menu li a {
+        margin-right: 0;
+        margin-left: 30px;
+    }
+    .header-right {
+        display: none;
+    }
+    .hero-slider .owl-dots {
+        max-width: 690px;
+        left: calc(50% - 345px);
+    }
+    .hs-text {
+        margin-bottom: 50px;
+        padding-top: 0;
+    }
+    .icon-box-item .ib-icon {
+        float: none;
+        margin-bottom: 20px;
+    }
+    .score-section .hand-img {
+        display: none;
+    }
+    .sidebar {
+        padding-top: 50px;
+    }
+} */
+
+
+/* Large Mobile :480px. */
+
+
+/* 
+@media only screen and (max-width: 767px) {
+    .header-section {
+          overflow: hidden;
+        padding: 0 25px;
+      
+    }
+    .main-menu {
+        display: none;
+    }
+    .slicknav_menu {
+        padding: 0;
+        display: block;
+        background: transparent;
+    }
+    .slicknav_btn {
+        background: #616161;
+        margin-top: 29px;
+    }
+    .slicknav_nav {
+        background: #22242b;
+        margin-bottom: 30px;
+    }
+    .slicknav_nav a {
+        margin: 0;
+        padding: 10px 20px;
+        border-bottom: 1px solid #111;
+    }
+    .slicknav_nav a:hover {
+        color: #f43f00;
+        border-radius: 0;
+        background: #0b0e25;
+    }
+    .slicknav_nav .slicknav_row {
+        padding: 10px 20px;
+        margin: 0;
+    }
+    .slicknav_nav .slicknav_row:hover {
+        border-radius: 0;
+        background: #0b0e25;
+    }
+    .slicknav_parent:hover {
+        background: #22242b;
+        color: #f43f00;
+    }
+    .header-right {
+        display: none;
+    }
+    .hero-slider .owl-dots {
+        left: 0;
+        padding: 0 15px;
+        text-align: center;
+    }
+    .hs-text {
+        margin-bottom: 50px;
+        padding-top: 0;
+    }
+    .score-section h2,
+    .hs-text h2 {
+        font-size: 50px;
+    }
+    .sidebar {
+        padding-top: 50px;
+    }
+}
+
+ */
+
+
+/* Small Mobile :320px. */
+
+
+/* @media only screen and (max-width: 479px) {
+    .header-section {
+           padding: 0 15px;
+       
+    }
+    .hero-form {
+        padding: 40px 20px 50px;
+    }
+    .icon-box-item .ib-icon {
+        float: none;
+        margin-bottom: 20px;
+    }in
+    .site-btn.sb-big {
+        min-width: auto;
+    }
+    .info-text ul li {
+        font-size: 16px;
+    } 
+
+
+}*/
